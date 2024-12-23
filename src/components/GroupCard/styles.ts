@@ -19,7 +19,7 @@ export const Container = styled(TouchableOpacity)`
 export const Title = styled.Text`
     font-size: 16px;
     color: #C4C4CC;
-    font-family: 'Roboto_400Regular';
+    font-family: Roboto_400Regular;
 `
 
 export const Icon = styled(UsersThree).attrs(() => ({

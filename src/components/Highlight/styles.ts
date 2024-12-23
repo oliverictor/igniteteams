@@ -9,7 +9,7 @@ export const Title = styled.Text`
     text-align: center;
 
     font-size: 24px;
-    font-family: 'Roboto_700Bold';
+    font-family: Roboto_700Bold;
     color: #FFFFFF;
 `
 
