@@ -16,8 +16,9 @@ export const Logo = styled.Image`
 
 export const BackButton = styled.TouchableOpacity`
     flex: 1
-`
-export const BackIcon = styled(CaretLeft).attrs(({ theme }) => ({
+`;
+
+export const BackIcon = styled(CaretLeft).attrs(() => ({
     size: 32,
     color: '#FFFFFF',
 }))``;
