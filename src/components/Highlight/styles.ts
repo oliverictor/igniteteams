@@ -10,7 +10,7 @@ export const Title = styled.Text`
 
     font-size: 24px;
     font-family: 'Roboto_700Bold';
-    color: '#FFFFFF';
+    color: #FFFFFF;
 `
 
 export const Subtitle = styled.Text`
@@ -18,5 +18,5 @@ export const Subtitle = styled.Text`
     
     font-size: 16px;
     font-family: Roboto_400Regular;
-    color: '#7C7C8A';
+    color: #7C7C8A;
 `

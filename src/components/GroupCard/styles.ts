@@ -6,7 +6,7 @@ export const Container = styled(TouchableOpacity)`
     width: 100%;
     height: 90px;
 
-    background-color: '#29292E';
+    background-color: #29292E;
     border-radius: 6px;
 
     flex-direction: row;
@@ -18,7 +18,7 @@ export const Container = styled(TouchableOpacity)`
 
 export const Title = styled.Text`
     font-size: 16px;
-    color: '#C4C4CC';
+    color: #C4C4CC;
     font-family: 'Roboto_400Regular';
 `
 
